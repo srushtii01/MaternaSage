@@ -1,4 +1,4 @@
-# Hackitechs
+# Hackitects
 # MaternaSage - Bridging Maternal Healthcare Equity
 
 ## Project Overview
@@ -47,10 +47,6 @@ We're committed to expanding MaternaSage's impact:
 For project related documentation and assets, please visit our [Google Drive Folder](https://drive.google.com/drive/folders/1-O9e7AqqeFQNGPTIMk1n12AsT4jQBgVn?usp=drive_link).
 
 ...
-
-## Contribution
-
-We welcome contributions to enhance MaternaSage's capabilities. Follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 
 
